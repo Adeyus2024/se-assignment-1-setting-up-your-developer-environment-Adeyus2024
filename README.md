@@ -120,6 +120,7 @@ I was directed to unistall the two python verions in the system control panel, a
 After following this direction, I ran python verion again in Git Bash to confirm successful installation.
 
 Below is a screenshot of the two Python versions that I got listed using the command 'py -0'
+![python version](https://github.com/Adeyus2024/se-assignment-1-setting-up-your-developer-environment-Adeyus2024/assets/171816141/5a2e323b-8f38-4abb-9c8a-1ffc9ed24d0d)
 
 
 
